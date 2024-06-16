@@ -34,13 +34,13 @@ Install dependencies with npm install
 Start the server with npm start/ npm run dev
 
 ## 🛠️ Technologies Used:
-React.js
-Typescript
-React-final-form
-yup
-material-ui
-Node.js
-Express.js
+- React.js
+- Typescript
+- React-final-form
+- yup
+- material-ui
+- Node.js
+- Express.js
 
 ## 📝 Pontos a melhorar:
 - Dados sensiveis como nome da mae não deveria aparecer em modo de edição?
